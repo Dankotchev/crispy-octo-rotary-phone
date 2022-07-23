@@ -1,8 +1,8 @@
 data_movement = [
     {
-        title: "Move",
+        title: "Mover-se",
         icon: "run",
-        subtitle: "Cost: 5ft per 5ft",
+        subtitle: "Custo: 1,5m per 1,5m",
         description: "Movement cost: 5ft per 5ft moved",
         reference: "PHB, pg. 190.",
         bullets: [
